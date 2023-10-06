@@ -5,6 +5,7 @@ author: "@author@"
 date: "@date@"
 version: @version@
 url: "@url@"
+donotuseme: true
 tags:
   - kubernetes
   - script
